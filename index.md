@@ -1,3 +1,3 @@
 ---
-title: Predictive Learning
+title: ngduo's blog
 ---
