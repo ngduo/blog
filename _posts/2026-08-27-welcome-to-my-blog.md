@@ -1,0 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2026-08-27
+---
+Hello World,
+
+Welcome to my blog - this is where I share my journey exploring the A.I world especially Machine Learning, Deep Learning & Neural Network.
